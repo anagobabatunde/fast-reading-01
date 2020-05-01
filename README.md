@@ -1,31 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
+livre [La lecture rapide de tony buzan](https://www.amazon.fr/lecture-rapide-Tony-Buzan/dp/2212552157)
 
-## Getting Started
+## Explication
 
-First, run the development server:
+Cet exercice vous permettra de réduire la durée des saccades tout en augmentant la quantité d'informations assimilées à chaque fixation. Ce qui vous donnera la confiance et la motivation nécessaires pour éliminer les régressions.
+
+Avec la pratique, vous parviendrez à noter les nombres à six chiffres en un clin d'oeil. Ce qui vous donnera d'avantage confiance en vous pour embrasser 2 mots ou plus à chaque fixation lorsque vous lirez. Pour chaque longueur de nombre, le programme vous affichera de façon random des chiffres.
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # fast-reading-01
